@@ -28,10 +28,11 @@ export default function KvkkPage() {
         <h2 className="text-gray-800">Haklariniz</h2>
         <p>
           KVKK 11. madde kapsaminda; bilgi talep etme, duzeltme, silme, isleme itiraz etme gibi haklara sahipsiniz.
-          Basvurularinizi <a href="mailto:info@ortakayaotokurtarma.com" className="text-red-600 font-bold hover:underline">info@ortakayaotokurtarma.com</a>
+          Basvurularinizi <a href="mailto:info@ortakayaotokurtarici.com" className="text-red-600 font-bold hover:underline">info@ortakayaotokurtarici.com</a>
           adresine yazili olarak iletebilirsiniz.
         </p>
       </article>
     </main>
   );
 }
+

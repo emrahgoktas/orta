@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const base = "https://ortakayaotokurtarma.com";
+  const base = "https://ortakayaotokurtarici.com";
   const routes = [
     "",
     "/hizmetler",
@@ -26,3 +26,4 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: route === "" ? 1 : 0.8,
   }));
 }
+

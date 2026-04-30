@@ -32,10 +32,11 @@ export default function PrivacyPolicyPage() {
         </p>
         <h2 className="text-gray-800">Iletisim</h2>
         <p>
-          Gizlilik sureciyle ilgili sorularin icin <a href="mailto:info@ortakayaotokurtarma.com" className="text-red-600 font-bold hover:underline">info@ortakayaotokurtarma.com</a>
+          Gizlilik sureciyle ilgili sorularin icin <a href="mailto:info@ortakayaotokurtarici.com" className="text-red-600 font-bold hover:underline">info@ortakayaotokurtarici.com</a>
           veya <a href="tel:+905364783727" className="text-red-600 font-bold hover:underline">0536 478 37 27</a> uzerinden bize ulasabilirsin.
         </p>
       </article>
     </main>
   );
 }
+

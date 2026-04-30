@@ -1,4 +1,5 @@
 module.exports = {
-  siteUrl: "https://ortakayaotokurtarma.com",
+  siteUrl: "https://ortakayaotokurtarici.com",
   generateRobotsTxt: true,
 };
+

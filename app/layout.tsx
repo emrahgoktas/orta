@@ -7,7 +7,7 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ortakayaotokurtarma.com"),
+  metadataBase: new URL("https://ortakayaotokurtarici.com"),
   title: {
     default: "Siverek Oto Cekici | Ortakaya Oto Kurtarma",
     template: "%s | Ortakaya Oto Kurtarma",
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   description:
     "Siverek ve cevresinde 7/24 oto cekici ve arac kurtarma. Kurumsal hizmet anlayisi, seffaf fiyat, profesyonel ekip.",
   keywords: ["siverek oto cekici", "arac kurtarma", "yol yardim", "7/24 cekici"],
-  alternates: { canonical: "https://ortakayaotokurtarma.com" },
+  alternates: { canonical: "https://ortakayaotokurtarici.com" },
   openGraph: {
     title: "Siverek Oto Cekici",
     description: "Kurumsal standartta oto cekici ve yol yardim hizmeti.",
@@ -39,3 +39,4 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     </html>
   );
 }
+

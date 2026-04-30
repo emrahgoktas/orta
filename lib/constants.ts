@@ -4,7 +4,7 @@ export const CONTACT = {
   phoneHref: "tel:+905364783727",
   whatsapp:
     "https://wa.me/905364783727?text=Merhaba,%20acil%20yol%20yard%C4%B1m%C4%B1%20laz%C4%B1m",
-  email: "info@ortakayaotokurtarma.com",
+  email: "info@ortakayaotokurtarici.com",
   address: "Bahcelievler Mahallesi, Siverek / Sanliurfa",
   coords: {
     lat: 37.7553,
@@ -23,3 +23,4 @@ export const SERVICES = [
   "Kaza kurtarma",
   "Vinc hizmeti",
 ] as const;
+

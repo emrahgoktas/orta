@@ -11,7 +11,7 @@ export default function CookiePolicyPage() {
       <article className="prose prose-lg max-w-none">
         <h1 className="text-gray-800">Cerez Politikasi</h1>
         <p>
-          Bu cerez politikasi, ortakayaotokurtarma.com sitesinde kullanilan cerez turlerini ve kullanicinin cerez
+          Bu cerez politikasi, ortakayaotokurtarici.com sitesinde kullanilan cerez turlerini ve kullanicinin cerez
           tercihlerini nasil yonetebilecegini aciklar.
         </p>
         <h2 className="text-gray-800">Cerez Nedir?</h2>
@@ -34,3 +34,4 @@ export default function CookiePolicyPage() {
     </main>
   );
 }
+
