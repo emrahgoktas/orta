@@ -1,5 +1,5 @@
 {
-  "regions": ["ist1"],
+  
   "build": {
     "env": {
       "NEXT_PUBLIC_GOOGLE_MAPS_API_KEY": "@google-maps-api-key"
