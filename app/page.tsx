@@ -168,7 +168,11 @@ export default function HomePage() {
               </p>
               <p>
                 Google&apos;in sevdigi guven sinyali icin tum iletisim bilgileri sabit ve acik: telefon, WhatsApp, adres,
-                yasal metinler ve yapisal schema.
+                yasal metinler ve yapisal schema. Yerel arama reklamlarimizda{" "}
+                <a href="/google-ads-tiklama-korumasi" className="font-semibold text-accent hover:underline">
+                  sahte tiklama korumasi deneyimimizi
+                </a>{" "}
+                de paylasiyoruz.
               </p>
             </div>
           </div>

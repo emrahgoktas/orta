@@ -18,6 +18,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/gizlilik-politikasi",
     "/kvkk-aydinlatma-metni",
     "/cerez-politikasi",
+    "/google-ads-tiklama-korumasi",
+    "/llms.txt",
   ];
 
   return routes.map((route) => ({

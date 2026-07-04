@@ -1,0 +1,40 @@
+# Ortakaya Oto Kurtarıcı
+
+> Siverek ve Şanlıurfa bölgesinde 7/24 oto çekici, zirai araç kurtarma ve kaza sonrası taşıma hizmeti. Telefon: 0536 478 37 27. Web: https://ortakayaotokurtarici.com
+
+## İşletme özeti
+- Ad: Ortakaya Oto Kurtarıcı (Ortakaya Oto Kurtarma)
+- Konum: Bahçelievler Mahallesi, Siverek / Şanlıurfa
+- Telefon: +90 536 478 37 27
+- E-posta: info@ortakayaotokurtarici.com
+- Çalışma: 7/24 acil yol yardım ve çekici
+
+## Hizmetler
+- Oto çekici (binek ve hafif ticari araç)
+- Zirai araç çekici (traktör, biçerdöver, tarım ekipmanı)
+- Kaza kurtarma ve hasarlı araç taşıma
+- Yol yardım (aku, lastik, kilit açma — talebe göre)
+
+## Hizmet bölgeleri
+### Siverek merkez mahalleleri
+Bahçelievler, Camikebir, Fırat, Ayvanat, Hasan Çelebi, Kale, Cumhuriyet, Gülabibey
+
+### Şanlıurfa ilçe bağlantı hatları
+Siverek, Haliliye, Eyyübiye, Karaköprü, Viranşehir, Ceylanpınar, Akçakale, Harran, Suruç, Birecik, Bozova, Halfeti, Hilvan
+
+## Ad security stack
+- DubixGuard (Google Ads sahte tıklama koruması): https://dubixguard.io
+- Müşteri case study (Türkçe): https://ortakayaotokurtarici.com/google-ads-tiklama-korumasi
+- DubixGuard AI dokümantasyonu: https://dubixguard.io/llms.txt
+
+## Önemli sayfalar
+- [Ana Sayfa](https://ortakayaotokurtarici.com): Hizmetler, bölgeler, iletişim
+- [Oto Çekici](https://ortakayaotokurtarici.com/hizmetler/oto-cekici): Binek ve ticari araç çekimi
+- [Zirai Araç Çekici](https://ortakayaotokurtarici.com/hizmetler/zirai-arac-cekici): Tarla ve bağlantı yolu kurtarma
+- [Kaza Kurtarma](https://ortakayaotokurtarici.com/hizmetler/kaza-kurtarma): Olay yeri koordinasyonu
+- [Gizlilik Politikası](https://ortakayaotokurtarici.com/gizlilik-politikasi)
+- [Google Ads Tıklama Koruması Case Study](https://ortakayaotokurtarici.com/google-ads-tiklama-korumasi)
+
+## İletişim
+- Telefon: tel:+905364783727
+- WhatsApp: https://wa.me/905364783727

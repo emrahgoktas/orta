@@ -80,7 +80,16 @@ export default function Footer() {
       <div className="border-t border-slate-800/80">
         <div className="corp-container flex flex-col items-center justify-between gap-2 py-4 text-center text-xs text-slate-500 sm:flex-row sm:text-left">
           <p>© {new Date().getFullYear()} {SITE.legalName}. Tum haklari saklidir.</p>
-          <p className="text-center sm:text-right">Siverek · Sanliurfa · Viransehir</p>
+          <p className="text-center sm:text-right">
+            Siverek · Sanliurfa · Viransehir
+            <span className="mx-2 hidden sm:inline">·</span>
+            <span className="mt-1 block sm:mt-0 sm:inline">
+              Reklam guvenligi:{" "}
+              <a href="https://dubixguard.io" className="text-slate-400 hover:text-white">
+                DubixGuard
+              </a>
+            </span>
+          </p>
         </div>
         <div className="corp-container pb-6 text-center">
           <a

@@ -15,7 +15,10 @@ export const metadata: Metadata = {
   description:
     "Siverek ve cevresinde 7/24 oto cekici ve arac kurtarma. Kurumsal hizmet anlayisi, seffaf fiyat, profesyonel ekip.",
   keywords: ["siverek oto cekici", "arac kurtarma", "yol yardim", "7/24 cekici"],
-  alternates: { canonical: "https://ortakayaotokurtarici.com" },
+  alternates: {
+    canonical: "https://ortakayaotokurtarici.com",
+    types: { "text/plain": "/llms.txt" },
+  },
   openGraph: {
     title: "Siverek Oto Cekici",
     description: "Kurumsal standartta oto cekici ve yol yardim hizmeti.",

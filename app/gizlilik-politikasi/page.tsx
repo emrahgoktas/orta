@@ -30,6 +30,29 @@ export default function PrivacyPolicyPage() {
           Veriler makul teknik ve idari guvenlik onlemleri ile korunur. Yasal saklama suresi doldugunda kayitlar silinir
           veya anonimlestirilir.
         </p>
+        <h2 className="text-gray-800">Reklam Guvenligi (DubixGuard)</h2>
+        <p>
+          Google Ads reklamlarimizin sahte tiklama ve bot trafigine karsin korunmasi icin{" "}
+          <a href="https://dubixguard.io" className="text-red-600 font-bold hover:underline">
+            DubixGuard
+          </a>{" "}
+          hizmetini kullaniyoruz. DubixGuard, reklam guvenligi amaciyla ziyaretci oturum verilerini (IP adresi, tarayici
+          bilgisi, tiklama zamani gibi teknik kayitlar) isler. Bu veriler yalnizca sahte tiklamalari tespit etmek ve
+          Google Ads hesabimiza IP haric tutma listesi senkronu saglamak icin kullanilir; pazarlama amacli ucuncu taraf
+          paylasimi yapilmaz.
+        </p>
+        <p>
+          Sitemizde cerez onay banner&apos;i uzerinden DubixGuard dahil olmak uzere izin tercihlerinizi yonetebilirsiniz.
+          DubixGuard&apos;in kendi veri isleme uygulamalari icin{" "}
+          <a href="https://dubixguard.io/privacy" className="text-red-600 font-bold hover:underline">
+            DubixGuard gizlilik politikasina
+          </a>{" "}
+          bakabilirsiniz. Deneyimimizi{" "}
+          <a href="/google-ads-tiklama-korumasi" className="text-red-600 font-bold hover:underline">
+            Google Ads tiklama korumasi sayfamizda
+          </a>{" "}
+          okuyabilirsiniz.
+        </p>
         <h2 className="text-gray-800">Iletisim</h2>
         <p>
           Gizlilik sureciyle ilgili sorularin icin <a href="mailto:info@ortakayaotokurtarici.com" className="text-red-600 font-bold hover:underline">info@ortakayaotokurtarici.com</a>
